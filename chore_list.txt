@@ -1,0 +1,7 @@
+0;Monday;"Make bed, wash dishes, clean table/counters, tidy up, living room, wash whites."  
+1;Tuesday;"Make bed, wash dishes, clean table/counters, tidy up, bathroom, wash linens."
+2;Wednesday;"Make bed, wash dishes, clean table/counters, tidy up, bedroom, wash colors."
+3;Thursday;"Make bed, wash dishes, clean table/counters, tidy up, laundry room, hand wash."
+4;Friday;"Make bed, wash dishes, clean table/counters, tidy up, kitchen."
+5;Saturday;"Make bed, wash dishes, clean table/counters, tidy up, floors, car, catch up."
+6;Sunday;"Make bed, wash dishes, clean table/counters, tidy up, hall, porch, empty recycling."
